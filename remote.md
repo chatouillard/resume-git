@@ -13,8 +13,7 @@ Pour revenir à la liste complète des commandes, [cliquez ici](index.html)
 
 ### Description
 
-La commande `git remote` montre l'état du répertoire de travail. En particulier, elle indique les fichiers qui ont été modifiés depuis le dernier commit. La commande fait la distinction entre les fichiers déjà ajoutés à l'index et ceux qui ne le sont pas. Elle indique également les fihiers qui ne sont pas encore suivis par `git`.
-gere l'etats des versions du depot.
+La commande `git remote` permet de gerer les liens du depot distant.
 
 ### Exemples
 
